@@ -1,0 +1,25 @@
+body {
+    background-color: darkgoldenrod;
+}
+header {
+    position: relative;
+    left: 600px;
+    color: aqua;
+    background-color: black;
+    width:90px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+}
+img {
+    position: relative;
+    left: 450px;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+p.b {
+    text-align: center;
+    color: blue;
+}
